@@ -11,7 +11,7 @@ Hi, I'm xynta, My Full Name Is Xynta Ar Xynta, Or you Can call me as Xynta, I'm 
 </P>
 
 <p align="center">
-  <a href="https://github.com/qisyana"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=qisyana&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+  <a href="https://github.com/aantastore"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=qisyana&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 </p>
 
 - 🌱 I’m currently learning
@@ -22,4 +22,4 @@ Hi, I'm xynta, My Full Name Is Xynta Ar Xynta, Or you Can call me as Xynta, I'm 
  
  ⚡ Fun fact: I really like Indomie
 
-![Qisyana github stats](https://github-readme-stats.vercel.app/api?username=qisyana&show_icons=true&theme=tokyonight) 
+![aantastore github stats](https://github-readme-stats.vercel.app/api?username=xynta&show_icons=true&theme=tokyonight) 
